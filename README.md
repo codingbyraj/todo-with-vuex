@@ -24,4 +24,5 @@ npm run lint
 ```
 vueX
 Implementated Bootstrap with Vue.js (https://bootstrap-vue.org)
+https://www.youtube.com/watch?v=5lVQgZzLMHc
 ```
